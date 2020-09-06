@@ -1,10 +1,10 @@
 # Workstream One
 
-## Introduction 
+### Introduction 
 The topic of this workstream is _tbd_. 
 
-## Workstream Lead 
-_tbd_
+### Workstream Lead 
+The workstream lead is _tbd_.
 
-## Workstream Team
-_tbd_ 
+### Workstream Team
+The workstream team includes: _tbd_. 
